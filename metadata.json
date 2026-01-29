@@ -1,0 +1,7 @@
+{
+  "name": "RocketSketch Beautifier",
+  "description": "Transform messy Rocketbook notes into professional, high-quality digital sketchnote infographics using Gemini's advanced multimodal analysis and generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
